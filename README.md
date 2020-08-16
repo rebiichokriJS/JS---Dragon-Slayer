@@ -1,3 +1,8 @@
+## Screen
+
+![alt tag](https://github.com/rebiichokriJS/JS---Dragon-Slayer/blob/master/images/dragon.jpg)
+![alt tag](https://github.com/rebiichokriJS/JS---Dragon-Slayer/blob/master/images/knight.jpg)
+
 # Dragon's Slayer
 
 Nous allons développer notre premier jeu vidéo ! Rien de tel que d'apprendre en s'amusant ! ;) Il s'agit d'un jeu de combat au tour par tour dans lequel le joueur incarnera le preux chevalier ***Luk Skriptwalker*** parti combattre le terrible dragon  ***Javawan the Bug***, qui retient captive dans son antre la princesse.
