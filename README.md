@@ -1,11 +1,12 @@
+# Dragon's Slayer
+
+Nous allons développer notre premier jeu vidéo ! Rien de tel que d'apprendre en s'amusant ! ;) Il s'agit d'un jeu de combat au tour par tour dans lequel le joueur incarnera le preux chevalier ***Luk Skriptwalker*** parti combattre le terrible dragon  ***Javawan the Bug***, qui retient captive dans son antre la princesse.
+
 ## Screen
 
 ![alt tag](https://github.com/rebiichokriJS/JS---Dragon-Slayer/blob/master/images/dragon.jpg)
 ![alt tag](https://github.com/rebiichokriJS/JS---Dragon-Slayer/blob/master/images/knight.jpg)
 
-# Dragon's Slayer
-
-Nous allons développer notre premier jeu vidéo ! Rien de tel que d'apprendre en s'amusant ! ;) Il s'agit d'un jeu de combat au tour par tour dans lequel le joueur incarnera le preux chevalier ***Luk Skriptwalker*** parti combattre le terrible dragon  ***Javawan the Bug***, qui retient captive dans son antre la princesse.
 
 ## Conseils techniques
  - Ce programme est un récapitulatif général de ce qui a été vu jusqu'à présent, vous aurez besoin pour en venir à bout d'utiliser tous les outils que vous avez connaissez maintenant : boucles, conditions, constantes, variables, tableaux, objets, fonctions, etc !
